@@ -110,6 +110,16 @@ $('body').bsMsgBox({
 After clicking on "Another one" button you see alert message.
 ![Additional button](http://mokh.in/images/bsmsgbox/msgbox5.png)
 
+## Copyright
+&copy; 2015 Denis Mokhin; plase, visit http://mokh.in. This plug-in is under GNU/GPL v2 or later; please visit http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+## Contributing, help and TODO
+What I'm goin' to do next:
+* Fix, if no icon selected (no media-list template should be used)
+* Add size of modal (modal-sm or modal-lg)
+* Add gettin text via AJAX functionality (when point url)
+* Add custom icons support (Glyphicons or Font Awesome, not only 'ok', 'info', 'qestion' or 'error')
+
 [Glyphicons]: http://glyphicons.com/
 [FontAwesome]: http://fontawesome.io/
 [Bootstrap v.3.3.6]: http://fontawesome.io/ "Bootstrap v.3.3.6"
