@@ -1,6 +1,6 @@
 /*!
- * Bootstrap MessageBox jQUery plugin v0.1.0
- * Copyright 2015 Denis Mokhin; please visit http://mokh.in
+ * Bootstrap MessageBox jQUery plugin v0.1.1
+ * Copyright 2015-2016 Denis Mokhin; please visit http://mokhin-tech.ru
  * Licensed under GNU GPL v2 or later; see LICENSE.txt
  */
 

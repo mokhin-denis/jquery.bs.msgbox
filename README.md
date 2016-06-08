@@ -41,7 +41,7 @@ Add HTML with button on any way to call function *show()*:
 ```
 As result after clicking on button you will see message box.
 
-![Simple message box](http://mokh.in/images/bsmsgbox/msgbox1.png)
+![Simple message box](http://mokhin-tech.ru/images/bsmsgbox/msgbox1.png)
 
 Click on times-icon in header or "Close" button to hide message box.
 
@@ -55,7 +55,7 @@ $('body').bsMsgBox({
     titletag: '<h1>'
 });
 ```
-![Message box with times-icon and big title](http://mokh.in/images/bsmsgbox/msgbox2.png)
+![Message box with times-icon and big title](http://mokhin-tech.ru/images/bsmsgbox/msgbox2.png)
 ### Change style of "Close" button
 ```js
 $('body').bsMsgBox({
@@ -69,7 +69,7 @@ $('body').bsMsgBox({
     }
 });
 ```
-![Change style of "Close" button](http://mokh.in/images/bsmsgbox/msgbox3.png)
+![Change style of "Close" button](http://mokhin-tech.ru/images/bsmsgbox/msgbox3.png)
 ### Additional button
 ```js
 $('body').bsMsgBox({
@@ -83,7 +83,7 @@ $('body').bsMsgBox({
     }
 });
 ```
-![Additional button](http://mokh.in/images/bsmsgbox/msgbox4.png)
+![Additional button](http://mokhin-tech.ru/images/bsmsgbox/msgbox4.png)
 
 As you see, there are two buttons and only "Close" button closes modal. Last one do nothing.
 ### Additional button: adding 'onclick' event handler
@@ -108,10 +108,10 @@ $('body').bsMsgBox({
 });
 ```
 After clicking on "Another one" button you see alert message.
-![Additional button](http://mokh.in/images/bsmsgbox/msgbox5.png)
+![Additional button](http://mokhin-tech.ru/images/bsmsgbox/msgbox5.png)
 
 ## Copyright
-&copy; 2015 Denis Mokhin; plase, visit http://mokh.in. This plug-in is under GNU/GPL v2 or later; please visit http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+&copy; 2015-2016 Denis Mokhin; please, visit http://mokhin-tech.ru. This plug-in is under GNU/GPL v2 or later; please visit http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 ## Contributing, help and TODO
 What I'm goin' to do next:
@@ -122,4 +122,4 @@ What I'm goin' to do next:
 
 [Glyphicons]: http://glyphicons.com/
 [FontAwesome]: http://fontawesome.io/
-[Bootstrap v.3.3.6]: http://fontawesome.io/ "Bootstrap v.3.3.6"
+[Bootstrap v.3.3.6]: http://getbootstrap.com/ "Bootstrap v.3.3.6"
