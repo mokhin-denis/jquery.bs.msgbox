@@ -111,7 +111,7 @@ After clicking on "Another one" button you see alert message.
 ![Additional button](http://mokhin-tech.ru/images/bsmsgbox/msgbox5.png)
 
 ## Copyright
-&copy; 2015-2016 Denis Mokhin; please, visit http://mokhin-tech.ru. This plug-in is under GNU/GPL v2 or later; please visit http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+&copy; 2015-2016 Denis Mokhin; please, visit http://mokhin-tech.ru. This plug-in is under GNU/GPL v2 or later; please visit http://www.gnu.org/licenses/old-licenses/gpl-2.0.html or see [LICENSE.txt](LICENSE.txt)
 
 ## Contributing, help and TODO
 What I'm goin' to do next:
